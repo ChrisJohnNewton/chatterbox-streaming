@@ -2,10 +2,14 @@ import random
 import numpy as np
 import torch
 import gradio as gr
+from pathlib import Path
 from chatterbox.tts import ChatterboxTTS
 
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
+
+CHECKPOINT_DIR = "checkpoints_lora"
+MERGED_DIR = Path(CHECKPOINT_DIR) / "merged_model"
 
 
 def set_seed(seed: int):
@@ -17,13 +21,15 @@ def set_seed(seed: int):
 
 
 def load_model():
-    model = ChatterboxTTS.from_pretrained(DEVICE)
+    # model = ChatterboxTTS.from_pretrained(DEVICE)
+    model = ChatterboxTTS.from_local(MERGED_DIR, device=DEVICE)
     return model
 
 
 def generate(model, text, audio_prompt_path, exaggeration, temperature, seed_num, cfgw):
     if model is None:
-        model = ChatterboxTTS.from_pretrained(DEVICE)
+        # model = ChatterboxTTS.from_pretrained(DEVICE)
+        model = ChatterboxTTS.from_local(MERGED_DIR, device=DEVICE)
 
     if seed_num != 0:
         set_seed(int(seed_num))
