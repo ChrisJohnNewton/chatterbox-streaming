@@ -41,5 +41,5 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 syn_out/
-checkpoints/
+checkpoints_lora/
 .gradio

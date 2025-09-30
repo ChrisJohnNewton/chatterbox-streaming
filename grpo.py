@@ -43,12 +43,15 @@ from datetime import datetime
 import threading
 import time
 from collections import deque
+from pathlib import Path
+
+LORA_MERGED_DIR = Path("checkpoints_lora") / "merged_model"
 
 # Hardcoded configuration
 AUDIO_DATA_DIR = "./audio_data"
-BATCH_SIZE = 10
+BATCH_SIZE = 16
 EPOCHS = 10
-LEARNING_RATE = 1e-5
+LEARNING_RATE = 3e-6
 WARMUP_STEPS = 500
 MAX_AUDIO_LENGTH = 400.0
 MIN_AUDIO_LENGTH = 1.0
@@ -64,9 +67,9 @@ MAX_TEXT_LENGTH = 1000
 VALIDATION_SPLIT = 0.1
 
 # GRPO specific parameters
-NUM_SAMPLES_PER_INPUT = 2
-KL_COEFF = 0.01
-REWARD_BASELINE_MOMENTUM = 0.9
+NUM_SAMPLES_PER_INPUT = 4
+KL_COEFF = 0.02
+REWARD_BASELINE_MOMENTUM = 0.95
 TEMPERATURE = 1.0
 TOP_K = 50
 TOP_P = 0.95
@@ -1292,7 +1295,7 @@ def main():
         print(f"Train samples: {len(train_samples)}, Validation samples: {len(val_samples)}")
 
         print("Loading Chatterbox TTS model...")
-        model = ChatterboxTTS.from_pretrained(DEVICE)
+        model = ChatterboxTTS.from_local(LORA_MERGED_DIR, device=DEVICE)
 
         if hasattr(model.t3.tfmr, 'gradient_checkpointing_enable'):
             model.t3.tfmr.gradient_checkpointing_enable()
