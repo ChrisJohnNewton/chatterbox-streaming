@@ -41,8 +41,8 @@ from collections import deque
 # Hardcoded configuration
 AUDIO_DATA_DIR = "./audio_data"
 BATCH_SIZE = 1
-EPOCHS = 24
-LEARNING_RATE = 2e-5
+EPOCHS = 5
+LEARNING_RATE = 3e-6
 WARMUP_STEPS = 500
 MAX_AUDIO_LENGTH = 400.0
 MIN_AUDIO_LENGTH = 1.0
@@ -967,7 +967,7 @@ def load_audio_samples(audio_dir: str, whisper_model) -> List[AudioSample]:
    audio_extensions = ['.wav', '.mp3', '.flac', '.ogg', '.m4a']
 
    # Cache file for transcripts
-   cache_file = Path(audio_dir) / "transcripts_cache.json"
+   cache_file = Path(audio_dir) / "transcripts.json"
    transcript_cache = {}
 
    # Load existing cache if available

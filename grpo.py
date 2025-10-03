@@ -1572,7 +1572,7 @@ def load_audio_samples(audio_dir: str, whisper_model) -> List[AudioSample]:
     samples = []
     audio_extensions = ['.wav', '.mp3', '.flac', '.ogg', '.m4a']
 
-    cache_file = Path(audio_dir) / "transcripts_cache.json"
+    cache_file = Path(audio_dir) / "transcripts.json"
     transcript_cache = {}
 
     if cache_file.exists():

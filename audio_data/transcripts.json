@@ -1,0 +1,997 @@
+{
+  "c1.wav": {
+    "duration": 16.921995464852607,
+    "sample_rate": 44100,
+    "transcript": "Hey everyone, today let's dive into the concept of divine providence in theology. It's fascinating how history shows us events that seem guided by a higher power. Like the fall of Rome leading to new philosophical ideas."
+  },
+  "c2.wav": {
+    "duration": 18.348956916099773,
+    "sample_rate": 44100,
+    "transcript": "Hello, this is Chris Newton from Catholica. Welcome to the show. Today we're going to be talking about Peter Abelard's view of the Ransom Theory of Atonement and why he believes it makes God seem unjust. He raises some excellent points taken from Anselm."
+  },
+  "c3.wav": {
+    "duration": 17.89079365079365,
+    "sample_rate": 44100,
+    "transcript": "So philosophy asks big questions. What is reality? In history, thinkers like Plato shaped our views on forms and ideals, influencing theology's take on the soul's immortality."
+  },
+  "c4.wav": {
+    "duration": 15.638027210884355,
+    "sample_rate": 44100,
+    "transcript": "Imagine chatting about Augustine's City of God. It's a blend of theology and history, arguing that earthly cities fade, but the divine ones endure. Pretty profound for daily life."
+  },
+  "c5.wav": {
+    "duration": 15.0,
+    "sample_rate": 44100,
+    "transcript": "Let's talk about Stoicism in philosophy. Marcus Aurelius, a Roman emperor, wrote meditations that echo theological virtues like patience and wisdom amidst historical turmoil."
+  },
+  "c6?.wav": {
+    "duration": 13.79063492063492,
+    "sample_rate": 44100,
+    "transcript": "Theology often intersects with history through figures like Martin Luther. His 95 Theses sparked the Reformation, challenging philosophical notions of authority and faith."
+  },
+  "c7.wav": {
+    "duration": 13.896371882086168,
+    "sample_rate": 44100,
+    "transcript": "Ever wonder about existentialism? Kierkegaard bridged philosophy and theology, urging leaps of faith in a historical context of doubt and industrial change."
+  },
+  "c8.wav": {
+    "duration": 13.812494331065759,
+    "sample_rate": 44100,
+    "transcript": "In ancient history, the Greek philosophers like Aristotle pondered ethics. This laid groundwork for theological debates on virtue in Christianity and beyond."
+  },
+  "c9?.wav": {
+    "duration": 12.75,
+    "sample_rate": 44100,
+    "transcript": "What about the Enlightenment? Philosophers like Kant question knowledge, impacting theology by emphasising reason over blind faith in historical narratives."
+  },
+  "c10?.wav": {
+    "duration": 13.374467120181405,
+    "sample_rate": 44100,
+    "transcript": "Theology explores God's nature, but history shows diverse interpretations. Like in Islam's golden age, where philosophy flourished under thinkers like Avicenna."
+  },
+  "c11?.wav": {
+    "duration": 12.673968253968255,
+    "sample_rate": 44100,
+    "transcript": "Let's ponder free will. In philosophy, it's a hot topic. Theology ties it to sin and redemption, with historical events like wars testing our choices."
+  },
+  "c12.wav": {
+    "duration": 12.582312925170068,
+    "sample_rate": 44100,
+    "transcript": "Buddhism's philosophy of impermanence resonates with historical cycles of empires rising and falling, offering a theological lens on suffering and enlightenment."
+  },
+  "c13.wav": {
+    "duration": 11.017709750566894,
+    "sample_rate": 44100,
+    "transcript": "Nihilism in philosophy questions meaning, but theology counters with purpose from a creator, seen in history's resilient faith communities."
+  },
+  "c14.wav": {
+    "duration": 13.488662131519275,
+    "sample_rate": 44100,
+    "transcript": "The Crusades: a dark chapter in history, where theology clashed with politics, raising philosophical questions about just war and ethics."
+  },
+  "c15.wav": {
+    "duration": 10.4218820861678,
+    "sample_rate": 44100,
+    "transcript": "Heidegger's being and time philosophy delves into existence, echoing theological themes of eternity versus historical temporality."
+  },
+  "c16?.wav": {
+    "duration": 12.071360544217686,
+    "sample_rate": 44100,
+    "transcript": "In Jewish theology, the Exodus story is pivotal history, philosophically exploring freedom, covenant, and divine intervention."
+  },
+  "c17.wav": {
+    "duration": 9.141156462585034,
+    "sample_rate": 44100,
+    "transcript": "Postmodern philosophy deconstructs truths, challenging theology's absolute claims amid history's shifting narratives."
+  },
+  "c18.wav": {
+    "duration": 10.944784580498867,
+    "sample_rate": 44100,
+    "transcript": "Confucius' philosophy emphasised harmony, influencing East Asian theology and history through concepts like the mandate of heaven."
+  },
+  "c19.wav": {
+    "duration": 9.978480725623582,
+    "sample_rate": 44100,
+    "transcript": "The Renaissance blended history, art, and philosophy, reviving classical theology and sparking humanistic views on divinity."
+  },
+  "c20.wav": {
+    "duration": 10.070136054421768,
+    "sample_rate": 44100,
+    "transcript": "Schopenhauer's will and representation philosophy touches on suffering, paralleling theological ideas in Christianity about original sin."
+  },
+  "c21.wav": {
+    "duration": 11.88124716553288,
+    "sample_rate": 44100,
+    "transcript": "Islamic theology's concept of Tawhid, God's oneness, has shaped history. From the Abbasid Caliphate to philosophical debates on unity."
+  },
+  "c22.wav": {
+    "duration": 10.514580498866213,
+    "sample_rate": 44100,
+    "transcript": "Epicureanism sought pleasure without excess, philosophically clashing with ascetic theology, but influencing historical views on happiness."
+  },
+  "c23?.wav": {
+    "duration": 10.053650793650794,
+    "sample_rate": 44100,
+    "transcript": "The Holocaust forces theology to confront evil, philosophically questioning God's goodness in the face of historical atrocity."
+  },
+  "c24.wav": {
+    "duration": 9.11281179138322,
+    "sample_rate": 44100,
+    "transcript": "Daoism's philosophy of the Way flows with nature, offering a theological alternative to rigid historical structures."
+  },
+  "c25.wav": {
+    "duration": 9.375895691609978,
+    "sample_rate": 44100,
+    "transcript": "Karl Marx's philosophy critiqued religion as opium, impacting history's communist movements and theological responses."
+  },
+  "c26.wav": {
+    "duration": 9.984897959183673,
+    "sample_rate": 44100,
+    "transcript": "Feminist philosophy re-examines theology, highlighting women's roles in history often overlooked in patriarchal narratives."
+  },
+  "c27.wav": {
+    "duration": 9.709342403628117,
+    "sample_rate": 44100,
+    "transcript": "Neoplatonism bridged philosophy and theology, influencing early Christian history through Plotinus' ideas on the One."
+  },
+  "c28.wav": {
+    "duration": 9.048820861678005,
+    "sample_rate": 44100,
+    "transcript": "The scientific revolution challenged theology, with philosophers like Descartes separating mind and matter in historical context."
+  },
+  "c29?.wav": {
+    "duration": 9.466485260770975,
+    "sample_rate": 44100,
+    "transcript": "Hindu philosophy's Vedanta explores non-dualism, theologically uniting self and divine in India's rich history."
+  },
+  "c30?.wav": {
+    "duration": 9.992721088435374,
+    "sample_rate": 44100,
+    "transcript": "Utilitarianism in philosophy maximizes happiness, raising philosophical questions about divine commands versus human utility."
+  },
+  "c31.wav": {
+    "duration": 8.856054421768707,
+    "sample_rate": 44100,
+    "transcript": "Byzantine history preserved theology and philosophy, from icons to debates on Christ's nature at councils."
+  },
+  "c32.wav": {
+    "duration": 9.355736961451248,
+    "sample_rate": 44100,
+    "transcript": "Sartre's existential philosophy asserts freedom, contrasting theology's predestination in historical Calvinist thought."
+  },
+  "c33.wav": {
+    "duration": 8.583356009070295,
+    "sample_rate": 44100,
+    "transcript": "African theology incorporates oral history and philosophy, emphasising community and ancestral wisdom."
+  },
+  "c34.wav": {
+    "duration": 8.005215419501134,
+    "sample_rate": 44100,
+    "transcript": "The French Revolution's philosophy of liberty clashed with theology, reshaping history's church-state relations."
+  },
+  "c35.wav": {
+    "duration": 7.730725623582766,
+    "sample_rate": 44100,
+    "transcript": "Wittgenstein's language games philosophy affects theology by questioning how we speak of God in historical texts."
+  },
+  "c36.wav": {
+    "duration": 7.5,
+    "sample_rate": 44100,
+    "transcript": "Indigenous philosophers blend theology with history, viewing land as sacred in narratives of colonisation."
+  },
+  "c37.wav": {
+    "duration": 8.070090702947846,
+    "sample_rate": 44100,
+    "transcript": "Leibniz's best-of-all-worlds philosophy defends theology against evil amid history's Leibniz-Newton debates."
+  },
+  "c38.wav": {
+    "duration": 8.54984126984127,
+    "sample_rate": 44100,
+    "transcript": "Sufi mysticism in Islamic theology offers philosophical paths to divine love, influencing Persian history."
+  },
+  "c39.wav": {
+    "duration": 9.738072562358276,
+    "sample_rate": 44100,
+    "transcript": "The Industrial Revolution spurred philosophy on alienation, prompting theological reflections on labour and dignity."
+  },
+  "c40.wav": {
+    "duration": 10.828979591836735,
+    "sample_rate": 44100,
+    "transcript": "Spinoza's pantheism philosophy equates God and nature, challenging traditional theology in historical Enlightenment."
+  },
+  "c41.wav": {
+    "duration": 9.312494331065759,
+    "sample_rate": 44100,
+    "transcript": "Celtic theology weaves history and philosophy, with druids pondering cycles of life and rebirth."
+  },
+  "c42.wav": {
+    "duration": 8.54061224489796,
+    "sample_rate": 44100,
+    "transcript": "Phenomenology in philosophy, via Husserl, explores consciousness, aiding theology's understanding of revelation."
+  },
+  "c43?.wav": {
+    "duration": 7.854172335600907,
+    "sample_rate": 44100,
+    "transcript": "The Cold War's history pitted aesthetic philosophy against theology in battles of ideology."
+  },
+  "c44.wav": {
+    "duration": 8.583333333333334,
+    "sample_rate": 44100,
+    "transcript": "Confucian Analects provide philosophical ethics, paralleling theological virtues in Chinese history."
+  },
+  "c45.wav": {
+    "duration": 8.916167800453515,
+    "sample_rate": 44100,
+    "transcript": "Deism's clockmaker God philosophy influenced American founders, blending theology and revolutionary history."
+  },
+  "c46?.wav": {
+    "duration": 7.335215419501134,
+    "sample_rate": 44100,
+    "transcript": "Hermeneutics philosophy interprets texts crucial for theology's biblical exegesis in historical contexts."
+  },
+  "c47.wav": {
+    "duration": 9.020816326530612,
+    "sample_rate": 44100,
+    "transcript": "Aztec theology integrated philosophy and history, with gods embodying cosmic forces in empire-building."
+  },
+  "c48.wav": {
+    "duration": 10.214603174603175,
+    "sample_rate": 44100,
+    "transcript": "Pragmatism in American philosophy tests truths by results, impacting theology's practical faith applications."
+  },
+  "c49.wav": {
+    "duration": 8.542879818594104,
+    "sample_rate": 44100,
+    "transcript": "The Black Death's history prompted theological questions on divine punishment, philosophically exploring mortality."
+  },
+  "c50?.wav": {
+    "duration": 8.55469387755102,
+    "sample_rate": 44100,
+    "transcript": "Zen Buddhism's cones challenge philosophy, offering theological insights into enlightenment beyond words."
+  },
+  "c51.wav": {
+    "duration": 10.784761904761904,
+    "sample_rate": 44100,
+    "transcript": "Now you have to understand that Voltaire candidly makes a mockery of optimism, critiquing theology amid historical disasters like the Lisbon earthquake."
+  },
+  "c52.wav": {
+    "duration": 12.694444444444445,
+    "sample_rate": 44100,
+    "transcript": "Thomas Aquinas synthesised Aristotle's philosophy with Christian theology, creating Summa Theologica—a historical milestone in intellectual thought."
+  },
+  "c53.wav": {
+    "duration": 8.912312925170069,
+    "sample_rate": 44100,
+    "transcript": "One cannot forget that Kant’s categorical imperative was largely a polite way of telling Prussia to do its chores before dessert."
+  },
+  "c54.wav": {
+    "duration": 21.233673469387757,
+    "sample_rate": 44100,
+    "transcript": "It is essential to grasp that Nietzsche’s proclamation of the death of God was not so much a theological obituary, as it was an elaborate announcement that the universe had misplaced its moral spectacles and was now fumbling about like an old librarian trying to shelve books in the dark."
+  },
+  "c55.wav": {
+    "duration": 8.87689342403628,
+    "sample_rate": 44100,
+    "transcript": "Hegel famously claimed that history is a dialectic, though he never clarified what kind of music the dialectic danced to."
+  },
+  "c56?.wav": {
+    "duration": 18.391473922902495,
+    "sample_rate": 44100,
+    "transcript": "One should remember that Marx’s historical materialism, despite its rigorous critique of capitalism, often reads like a grand narrative in which factories themselves are the true protagonists, endlessly struggling not for profit but for the right to finally take a nap."
+  },
+  "c57?.wav": {
+    "duration": 8.612312925170068,
+    "sample_rate": 44100,
+    "transcript": "It’s important to realise that Nietzsche’s eternal recurrence is less a doctrine and more a cosmic reminder not to skip leg day."
+  },
+  "c58.wav": {
+    "duration": 19.117369614512473,
+    "sample_rate": 44100,
+    "transcript": "Strangely enough, the elevator always manages to turn complete strangers into temporary philosophers, forcing everyone to debate silently with their own reflections in the metallic doors about whether pressing the close button is an act of impatience, desperation, or sheer delusion."
+  },
+  "c59.wav": {
+    "duration": 7.412312925170068,
+    "sample_rate": 44100,
+    "transcript": "Remember that Descartes doubted everything except his morning coffee, which he held to be self-evident."
+  },
+  "c60.wav": {
+    "duration": 20.867369614512473,
+    "sample_rate": 44100,
+    "transcript": "What nobody mentions is that the simple act of carrying an umbrella transforms you into a walking weather paradox. Because the moment you hold one confidently, the skies refuse to rain. Yet the instant you forget it, clouds summon storms with bureaucratic efficiency."
+  },
+  "c61.wav": {
+    "duration": 8.37501133786848,
+    "sample_rate": 44100,
+    "transcript": "We must acknowledge that Rousseau’s social contract was essentially a group project where no one wanted to do the PowerPoint slides."
+  },
+  "c62.wav": {
+    "duration": 15.813718820861679,
+    "sample_rate": 44100,
+    "transcript": "I've often noticed that public libraries, while ostensibly temples of knowledge, are actually vast acoustic experiments where the single sound of a dropped pencil echoes with such judgmental fury that even encyclopedias seem to glare in disapproval."
+  },
+  "c63?.wav": {
+    "duration": 17.668548752834468,
+    "sample_rate": 44100,
+    "transcript": "There’s something undeniable about the way pigeons conduct themselves in city squares, as if they were minor aristocrats on permanent vacation, casually scattering at human intrusion, only to reconvene moments later in heated council about leftover breadcrumbs."
+  },
+  "c64?.wav": {
+    "duration": 21.75190476190476,
+    "sample_rate": 44100,
+    "transcript": "Train stations always feel as though they were designed by people who had never actually been on a train, with clocks that run on their own secret calendar, announcements delivered in a language made entirely of static, and travellers who treat suitcases less as luggage and more as companions with whom they have unresolved arguments."
+  },
+  "c65.wav": {
+    "duration": 21.813718820861677,
+    "sample_rate": 44100,
+    "transcript": "Oddly, the bus stop functions less as a point of transit and more as a stage set, where regulars perform their daily roles. One person pacing in nervous anticipation, another reading a newspaper upside down, and yet another staring into the distance as if auditioning for a melodrama."
+  },
+  "c66.wav": {
+    "duration": 19.583333333333332,
+    "sample_rate": 44100,
+    "transcript": "Elevators are not so much modes of vertical transport as tiny psychological laboratories, where everybody suddenly forgets what to do with their eyes, their hands, and their breathing, and where pressing the ‘door close’ button becomes a moral referendum disguised as a minor inconvenience."
+  },
+  "c67.wav": {
+    "duration": 18.37063492063492,
+    "sample_rate": 44100,
+    "transcript": "If you think about it, refrigerators are less household appliances and more time capsules of indecision, quietly preserving forgotten jars of mustard and mysterious leftovers while humming in a tone that suggests both resignation and quiet judgment."
+  },
+  "c68?.wav": {
+    "duration": 20.057301587301588,
+    "sample_rate": 44100,
+    "transcript": "Supermarkets at night take on the atmosphere of half-forgotten carnivals, where the fluorescent lights hum like anxious clowns and the aisles stretch into infinity, as though buying cereal were less a task and more a labyrinthine trial devised by unseen architects of boredom."
+  },
+  "c69.wav": {
+    "duration": 24.0,
+    "sample_rate": 44100,
+    "transcript": "The act of grocery shopping is best understood as a kind of improvisational theatre, in which the produce section poses riddles about ripeness, the dairy aisle offers philosophical reflections on expiration dates, and the frozen section functions as a kind of silent arctic monastery where time itself is preserved behind frosty glass doors."
+  },
+
+  "c70.wav": {
+    "duration": 20.520839002267575,
+    "sample_rate": 44100,
+    "transcript": "Aeroplanes are peculiar because no matter how modern or advanced they become, passengers inevitably treat the seatbelt demonstration as both a comedy routine and a subtle insult. Nodding politely while silently wondering if anyone has ever, in the history of aviation, inflated the life vest without looking ridiculous."
+  },
+  "c71.wav": {
+    "duration": 22.0,
+    "sample_rate": 44100,
+    "transcript": "Public parks, despite their advertised tranquillity, often host entire ecosystems of unspoken drama: squirrels staging elaborate heists of picnic food, joggers racing no one but imagining victory speeches, and toddlers practising early forms of dictatorship from the confines of their strollers."
+  },
+  "c72.wav": {
+    "duration": 19.71530612244898,
+    "sample_rate": 44100,
+    "transcript": "Cafés promise comfort but operate more like theatres of controlled chaos, with baristas performing caffeinated alchemy behind whirring machines, while customers rehearse their lines, terrified of mispronouncing an order so badly that it summons a beverage that doesn’t legally exist."
+  },
+  "c73.wav": {
+    "duration": 21.611632653061225,
+    "sample_rate": 44100,
+    "transcript": "Airports masquerade as gateways to adventure but are in reality sprawling temples of controlled chaos, where luggage carousels turn endlessly like mechanical prayer wheels, flight announcements double as coded poetry, and the collective human spirit is measured in the length of the security line."
+  },
+  "c74?.wav": {
+    "duration": 18.493219954648527,
+    "sample_rate": 44100,
+    "transcript": "Escalators are essentially moving carpets of suspicion, carrying people who pretend not to notice that they’re standing just a little too close, as if intimacy can be measured in mechanical steps per second, and all the while the handrail whispers secrets that nobody actually wants to hear."
+  },
+  "c75.wav": {
+    "duration": 18.82063492063492,
+    "sample_rate": 44100,
+    "transcript": "Restaurants always insist on presenting menus the size of small novels, as though diners are being invited not to order a meal, but to select a narrative arc, complete with dramatic twists in the appetizer section and existential crises lurking in the dessert list."
+  },
+  "c76.wav": {
+    "duration": 17.624988662131518,
+    "sample_rate": 44100,
+    "transcript": "Waiting rooms have a way of suspending time entirely, so that even a two-minute delay stretches into an existential saga, while outdated magazines appear as archaeological artefacts from civilisations that once believed frosted tips and fax machines were cutting-edge innovations."
+  },
+  "c77??.wav": {
+    "duration": 20.079478458049888,
+    "sample_rate": 44100,
+    "transcript": "Streetlights seem to operate less on electricity than on an obscure sense of mischief, dimming just enough to encourage uncertainty at crosswalks, flickering in conspiratorial Morse code, and occasionally surrendering altogether as if to test whether pedestrians have been secretly rehearsing night-vision drills."
+  },
+  "c78.wav": {
+    "duration": 20.105396825396827,
+    "sample_rate": 44100,
+    "transcript": "The grocery store self-checkout, despite its cheerful robotic voice, operates less like a machine and more like a mischievous trickster spirit, scanning avocados twice, refusing to recognise bananas, and demanding the assistance of an attendant who appears only after you’ve lost all dignity."
+  },
+  "c79.wav": {
+    "duration": 16.976439909297053,
+    "sample_rate": 44100,
+    "transcript": "Libraries, no matter how modern, still carry the strange atmosphere of a place where the furniture is silently judging you, where every chair seems to know your secrets, and where the loudest sound is always the one you didn’t mean to make, like dropping a pen that echoes with cathedral-like drama."
+  },
+  "c80?.wav": {
+    "duration": 18.046349206349205,
+    "sample_rate": 44100,
+    "transcript": "Laundromats are temples of chance, where socks are swallowed with religious regularity, and the dryers, humming in chorus, seem less concerned with drying clothes than with slowly hypnotizing their human observers into reconsidering every life decision that led them there."
+  },
+  "c81.wav": {
+    "duration": 16.808163265306124,
+    "sample_rate": 44100,
+    "transcript": "Sidewalk cafés operate on the unspoken understanding that half the customers are there for coffee, and the other half are there to watch strangers walk by and construct elaborate, fictional biographies for them, occasionally pausing to pretend the croissant in front of them is more interesting than the passing chaos."
+  },
+  "c82.wav": {
+    "duration": 16.716145124716554,
+    "sample_rate": 44100,
+    "transcript": "Alarm clocks always ring as though they’ve been plotting all night, bursting into sound with the confidence of a victorious general, and even when you silence them, they sit smugly on the nightstand, like they know you’ll come crawling back tomorrow."
+  },
+  "c83.wav": {
+    "duration": 20.105396825396827,
+    "sample_rate": 44100,
+    "transcript": "Garden gnomes, no matter how cheerfully painted, radiate the quiet menace of beings who’ve seen too much. Standing silently through decades of thunderstorms, gossiping with earthworms, and glaring at every dog who dares to question their jurisdiction."
+  },
+  "c84.wav": {
+    "duration": 12.174285714285714,
+    "sample_rate": 44100,
+    "transcript": "Remote controls are less tools than fickle monarchs, demanding loyalty one moment and vanishing into couch-cushion exile the next, returning only when you’ve already learned to live without them."
+  },
+  "c85?.wav": {
+    "duration": 15.66092970521542,
+    "sample_rate": 44100,
+    "transcript": "The Moon, despite its reputation as a tranquil celestial body, spends every night peeking into windows like an over-involved neighbour, sometimes whispering encouragement, sometimes just judging your midnight snack choices."
+  },
+  "c86?.wav": {
+    "duration": 13.297913832199546,
+    "sample_rate": 44100,
+    "transcript": "Keys seem to take on a mischievous intelligence of their own, hiding in plain sight until they reach the very limit of your patience, then reappearing with the smug air of a magician who insists the trick was obvious all along."
+  },
+  "c87.wav": {
+    "duration": 15.37498866213152,
+    "sample_rate": 44100,
+    "transcript": "Balloons never quite conceal their tragic destiny, floating with giddy optimism at birthday parties while already plotting their slow escape into ceilings, rooftops, or the vast upper atmosphere where they’ll spend eternity in silence."
+  },
+  "c88.wav": {
+    "duration": 13.346530612244898,
+    "sample_rate": 44100,
+    "transcript": "Shadows behave like overzealous understudies, mimicking every gesture you make, exaggerating your clumsiness, and stretching dramatically across walls as if auditioning for roles in films that don’t exist."
+  },
+  "c89?.wav": {
+    "duration": 15.727074829931972,
+    "sample_rate": 44100,
+    "transcript": "The thing about traffic is that everyone claims to hate it, but the moment you’re in a car alone, it somehow turns into the perfect excuse to call someone you haven’t talked to in months, or to listen to a podcast about Roman plumbing you never knew you cared about."
+  },
+  "c90?.wav": {
+    "duration": 17.375011337868482,
+    "sample_rate": 44100,
+    "transcript": "What people don’t really admit is that half the point of going to the gym isn’t exercising, but just proving to yourself that you managed to leave the house wearing shoes that match, and convincing your brain that standing near weights counts as some form of progress."
+  },
+  "c91.wav": {
+    "duration": 18.625011337868482,
+    "sample_rate": 44100,
+    "transcript": "One of the most awkward but universal experiences is walking towards someone you know from a distance that’s too far for a conversation, but too close to pretend you didn’t see them, so you both do that weird half-smile for 30 seconds until you’re finally close enough to speak like normal people."
+  },
+  "c92?.wav": {
+    "duration": 18.695555555555554,
+    "sample_rate": 44100,
+    "transcript": "Aeroplanes are funny, because even though everyone complains about the cramped seats and terrible food, the moment the cabin lights dim, people transform into highly strategic creatures, designing elaborate blanket forts out of sweatshirts and armrests just to prove they can sleep at a thirty-degree angle."
+  },
+  "c93?.wav": {
+    "duration": 13.360090702947845,
+    "sample_rate": 44100,
+    "transcript": "There’s this moment at every dinner party where the conversation hits a lull, and suddenly everyone takes a synchronised sip of their drink, as if they’d rehearsed the choreography, and then immediately pretends it just didn’t happen."
+  },
+  "c94?.wav": {
+    "duration": 25.18750566893424,
+    "sample_rate": 44100,
+    "transcript": "There was just that moment where nobody seemed to care. I couldn't understand it. I wish I had the answer now, but even after all these years later, I still don't. I pray for his soul… with all earnestness. I can't believe what happened, and no matter how many years have gone by, I will always care, even if everyone else forgets."
+  },
+  "c95.wav": {
+    "duration": 16.651043083900227,
+    "sample_rate": 44100,
+    "transcript": "The funny thing about meetings is that no matter how carefully they’re scheduled, half the people show up late, the other half forget what the meeting is actually about, and by the time everyone’s on the same page, somebody has already suggested scheduling a follow-up meeting just to finish what could have been on an email."
+  },
+  "c96?.wav": {
+    "duration": 18.11004535147392,
+    "sample_rate": 44100,
+    "transcript": "You ever notice how, when you run into someone you kind of know, but not well enough to actually have a full conversation, both of you get stuck in this polite loop of: “how have you been?”, and “we should catch up soon”. Even though you both know there’s a 0% chance either of you will actually follow through?"
+  },
+  "c97?.wav": {
+    "duration": 15.033356009070294,
+    "sample_rate": 44100,
+    "transcript": "There’s always that one moment where you’re waiting for food at a restaurant and the server walks by carrying a plate that looks amazing. And for a split second, you think maybe you ordered the wrong thing, even though you don’t even know what’s on their plate or if you’d actually like it."
+  },
+  "c98?.wav": {
+    "duration": 18.213015873015873,
+    "sample_rate": 44100,
+    "transcript": "The thing about phone calls is that nobody really likes them, but we all pretend we do. So you spend the first five minutes fumbling with small talk, the middle part pretending your connection isn’t cutting out, and the last two minutes trying to hang up gracefully while the other person keeps starting a whole new story."
+  },
+  "c99.wav": {
+    "duration": 12.87360544217687,
+    "sample_rate": 44100,
+    "transcript": "Mum, I don’t know how it happens, but every time I try and clean my room, I end up moving things around for an hour and then just sitting down thinking, “Well, it’s still messy, but at least I’ve touched everything once.”"
+  },
+  "c100.wav": {
+    "duration": 8.503129251700681,
+    "sample_rate": 44100,
+    "transcript": "You know that feeling when you open the fridge thinking you’re starving, and then just stand there for five minutes, realising there’s literally nothing you want to eat?"
+  },
+  "c101?.wav": {
+    "duration": 9.84063492063492,
+    "sample_rate": 44100,
+    "transcript": "I swear, every time I try to clean up a little, I end up making an even bigger mess and wondering why I thought tidying would be faster than just leaving it alone."
+  },
+  "c102?.wav": {
+    "duration": 9.178639455782314,
+    "sample_rate": 44100,
+    "transcript": "Sometimes I feel like I spend half my day just looking for my keys, my phone, or my glasses, and the other half pretending that losing them is somehow normal."
+  },
+  "c103???.wav": {
+    "duration": 12.481950113378685,
+    "sample_rate": 44100,
+    "transcript": "You ever notice how easy it is to plan something simple, like going out for coffee, and then it turns out into this huge discussion about where to go, what to eat, and whether anyone remembered to bring a wallet?"
+  },
+  "c104.wav": {
+    "duration": 9.562494331065759,
+    "sample_rate": 44100,
+    "transcript": "I can’t be the only person who scrolls through my phone for ten minutes thinking I’m just checking one thing, and suddenly it’s an hour later and I have no idea what I even came for."
+  },
+  "c105.wav": {
+    "duration": 8.5,
+    "sample_rate": 44100,
+    "transcript": "Honestly, some days it feels like the universe just wants me to spend all my energy trying to figure out if I’m wearing matching socks or not."
+  },
+  "c106.wav": {
+    "duration": 11.319251700680272,
+    "sample_rate": 44100,
+    "transcript": "Sometimes I just sit there, thinking about all the plans I made that never really happened, and it hits me how much time I’ve spent hoping for things that didn’t turn out the way I imagined."
+  },
+  "c107??.wav": {
+    "duration": 9.106598639455783,
+    "sample_rate": 44100,
+    "transcript": "It’s strange how people can drift away so quietly; one day you talk all the time and the next it feels like you’re just memories in each other’s phones."
+  },
+  "c108?.wav": {
+    "duration": 12.752607709750567,
+    "sample_rate": 44100,
+    "transcript": "I keep telling myself I’ll get better at keeping in touch, but somehow the days slip past and I realise I haven’t called anyone I actually wanted to, and it makes me feel smaller than I like to admit."
+  },
+  "c109??.wav": {
+    "duration": 12.616326530612245,
+    "sample_rate": 44100,
+    "transcript": "Some nights I lie awake remembering conversations that went wrong, or moments where I should have said something and didn’t, and it’s exhausting how easily regret sneaks in."
+  },
+  "c110??.wav": {
+    "duration": 12.333333333333334,
+    "sample_rate": 44100,
+    "transcript": "It’s hard not to notice how little things pile up—the forgotten birthdays, the promises that fade, the tiny disappointments that slowly make everything feel heavier."
+  },
+  "c111.wav": {
+    "duration": 10.75,
+    "sample_rate": 44100,
+    "transcript": "I thought I’d feel proud of what I’ve done by now, but sometimes all I feel is tired and like I’m always a little bit behind. Watching everyone else move forward while I stay in place."
+  },
+  "c112.wav": {
+    "duration": 18.575532879818596,
+    "sample_rate": 44100,
+    "transcript": "No, it absolutely is weird and the fact they don't find it weird… is weird. There's just no universe where that sort of behaviour is remotely accepted. I'm flabbergasted, totally flabbergasted. There's nothing else to say…"
+  },
+  "c113.wav": {
+    "duration": 10.452063492063493,
+    "sample_rate": 44100,
+    "transcript": "Hello everyone, welcome back to the show. Today, we're chatting about everyday life and how small changes can make a big difference. What do you think?"
+  },
+  "c114.wav": {
+    "duration": 11.362312925170068,
+    "sample_rate": 44100,
+    "transcript": "So, I've been thinking lately about morning routines. Starting the day with a cup of tea really sets the tone, doesn't it? Share your tips."
+  },
+  "c115.wav": {
+    "duration": 10.411451247165532,
+    "sample_rate": 44100,
+    "transcript": "Let's talk about friendships. True mates are hard to find, but once you have them, they're worth their weight in gold. Agree?"
+  },
+  "c116.wav": {
+    "duration": 9.37498866213152,
+    "sample_rate": 44100,
+    "transcript": "Weather's been a bit unpredictable lately, hasn't it? One minute sunny, the next pouring rain. Typical British summer!"
+  },
+  "c117.wav": {
+    "duration": 9.87498866213152,
+    "sample_rate": 44100,
+    "transcript": "Alright, so this week on the podcast we're going to be talking about the Byzantine Empire and its unexpected connection to modern-day political philosophy."
+  },
+  "c118.wav": {
+    "duration": 6.959886621315193,
+    "sample_rate": 44100,
+    "transcript": "Hey, if you haven't already, please do hit that subscribe button. It really helps grow the show."
+  },
+  "c119.wav": {
+    "duration": 9.867687074829933,
+    "sample_rate": 44100,
+    "transcript": "I had a fascinating chat with a historian the other day, and they were telling me about how the Roman road network completely shaped the spread of early Christianity."
+  },
+  "c120.wav": {
+    "duration": 8.328979591836735,
+    "sample_rate": 44100,
+    "transcript": "Honestly, it's one of those moments in history that makes you go, “Whoa, I've never thought of it that way.”"
+  },
+  "c121.wav": {
+    "duration": 9.187505668934241,
+    "sample_rate": 44100,
+    "transcript": "You know, I was just reading an article about how the philosophy of virtue ethics is making a comeback in corporate leadership circles."
+  },
+  "c122?.wav": {
+    "duration": 10.196689342403628,
+    "sample_rate": 44100,
+    "transcript": "Let's take a quick break, and when we come back, we'll dive into the concept of divine impassibility and what that means for theology."
+  },
+  "c123.wav": {
+    "duration": 9.75,
+    "sample_rate": 44100,
+    "transcript": "It's just incredible how a single idea, like Plato's theory of forms, can influence philosophy and theology."
+  },
+  "c124.wav": {
+    "duration": 31.043560090702947,
+    "sample_rate": 44100,
+    "transcript": "Welcome back, everyone. Today we’re going to wander through a question that has troubled philosophers and theologians for centuries: what does it mean to live a good life? It isn’t a question with an easy answer, and that’s exactly why we’re here. I want us to explore how history, faith, and reason all weigh in on this timeless debate. So, pour yourself a cup of tea, and let’s begin."
+  },
+  "c125.wav": {
+    "duration": 74.95832199546486,
+    "sample_rate": 44100,
+    "transcript": "Alright, so I've been pondering this mystery in early church history—the disappearance of the original manuscripts of the Gospels. What do you reckon happened to them? It's a proper enigma. Some say they were destroyed in the fires of Rome under Nero, but others think they were hidden away by early Christians to protect them from persecution. Philosophically, does that change how we view scriptural authority? If the originals are lost, are we just relying on copies? It ties into epistemology—how do we know what we know? Theology steps in with divine preservation, suggesting God ensured the texts' integrity through history. But there's a mystery angle: what if some fragments are still out there, buried in a forgotten monastery? That could upend everything. The Dead Sea Scrolls show surprises do happen."
+  },
+  "c126.wav": {
+    "duration": 53.601020408163265,
+    "sample_rate": 44100,
+    "transcript": "You know, the philosophy of time in Augustine's Confessions has always intrigued me. He says time is a distention of the soul, but how does that square with modern physics? Augustine's view is more theological—time as a creation of God, not eternal like Him. But Einstein's relativity adds a layer of mystery: is time truly linear, or just our perception? Think about the calendar reforms under Gregory the 23rd; that (quote) ‘lost’ (end quote) time in 1582 feels like a philosophical puzzle. Oh, those missing days! People thought it was witchcraft."
+  },
+  "c127.wav": {
+    "duration": 67.1218820861678,
+    "sample_rate": 44100,
+    "transcript": "Let's dive into the mystery of this manuscript—its an undeciphered book from the Renaissance. Is it a hoax, or does it hold philosophical secrets? I've read theories it's an alchemical text, full of herbal philosophy and theology disguised as gibberish to evade the Inquisition. Historically, it pops up in Rudolf the II's court, linked to occult thinkers like John Dee. The mystery is the language—artificial, or lost? Philosophically, it challenges our ideas of knowledge. If it's undecipherable, does that mean some truths are meant to stay hidden, like divine mysteries? Perhaps… Echoing apophatic theology—knowing God through what we can't know. But imagine cracking it; it could rewrite history."
+  },
+  "c128.wav": {
+    "duration": 63.34079365079365,
+    "sample_rate": 44100,
+    "transcript": "I'm fascinated by Kierkegaard's leap of faith. In a world of doubt, how does one make that philosophical jump without evidence? It's the ultimate mystery of existence. Theologically, it's about embracing absurdity, like Abraham's sacrifice—faith beyond reason. Historically, in the Danish Golden Age, it countered Hegel's rationalism. But personally, have you ever felt that leap? Because I have… Once, during a crisis; it was terrifying yet liberating. Philosophy calls it existential commitment, but the mystery is: what if you're wrong? That's the risk. Theology says grace catches you. It's like a historical riddle, and figures like Pascal wagered on it."
+  },
+  "c129.wav": {
+    "duration": 66.45018140589569,
+    "sample_rate": 44100,
+    "transcript": "The theology of suffering in Job is profound, but the historical context—possibly post-exilic—adds mystery. Was it based on real events? Scholars debate; it could be parabolic. Philosophically, it's theodicy: why does God allow evil? The mystery is Satan's role—adversary or tester? In conversation with friends, I've heard it compared to modern mysteries like unsolved crimes—evidence points everywhere. Theologically, Job's restoration feels incomplete. History shows similar tales in Babylonian epics, so is it borrowed? Perhaps… But that enriches it. The real mystery: does suffering always lead to wisdom, or is it random? That's a deep question. We'd need hours to unpack that."
+  },
+  "c130???.wav": {
+    "duration": 54.16231292517007,
+    "sample_rate": 44100,
+    "transcript": "Ever thought about the philosophical implications of quantum mechanics on theology? Particles in superposition—like Schrödinger's cat—challenge determinism. Historically, Einstein hated it, calling it 'spooky action.' Theologically, does it allow for miracles, where probability bends to divine will? Maybe… The mystery is entanglement: things connected across distances, echoing omnipresence. But philosophy asks: is reality observer-dependent? If so, God's observation collapses all wave functions. And historically, there's no question that the Copenhagen interpretation sparked debates."
+  },
+  "c131.wav": {
+    "duration": 11.466485260770975,
+    "sample_rate": 44100,
+    "transcript": "Right, listen closely now. What if the lost gospel was hidden in that monastery all along?"
+  },
+  "c132.wav": {
+    "duration": 8.578979591836735,
+    "sample_rate": 44100,
+    "transcript": "I was chatting with a friend from Yorkshire, and he reckons the Reformation’s roots are still alive in those old churches."
+  },
+  "c133.wav": {
+    "duration": 9.284897959183674,
+    "sample_rate": 44100,
+    "transcript": "Down in Somerset, they say the old Druids left clues in stone circles about life’s eternal cycle."
+  },
+  "c134.wav": {
+    "duration": 10.369795918367346,
+    "sample_rate": 44100,
+    "transcript": "So, picture this: a philosopher in ancient Athens, pondering the divine, under a starry sky."
+  },
+  "c135.wav": {
+    "duration": 7.224807256235827,
+    "sample_rate": 44100,
+    "transcript": "Do you think Plato’s forms could explain the mysteries in old Viking sagas?"
+  },
+  "e1.wav": {
+    "duration": 11.844263038548753,
+    "sample_rate": 44100,
+    "transcript": "Shhh, don’t tell a soul, but I heard there’s a secret chamber under Canterbury Cathedral holding ancient relics."
+  },
+  "e2.wav": {
+    "duration": 9.503832199546485,
+    "sample_rate": 44100,
+    "transcript": "You won’t believe this! A medieval scroll’s just been found, and it might rewrite Augustine’s timeline!"
+  },
+  "e3.wav": {
+    "duration": 11.874467120181405,
+    "sample_rate": 44100,
+    "transcript": "Hang on, let me catch my breath… I just sprinted from the library after spotting a clue about Aquinas in a dusty tome!"
+  },
+  "p1.wav": {
+    "duration": 4.273265306122449,
+    "sample_rate": 44100,
+    "transcript": "The birch canoe slid on the smooth planks."
+  },
+  "p2.wav": {
+    "duration": 3.5,
+    "sample_rate": 44100,
+    "transcript": "Glue the sheet to the dark blue background."
+  },
+  "p3.wav": {
+    "duration": 3.1249886621315195,
+    "sample_rate": 44100,
+    "transcript": "It's easy to tell the depth of a well."
+  },
+  "p4.wav": {
+    "duration": 3.25,
+    "sample_rate": 44100,
+    "transcript": "These days, a chicken leg is a rare dish."
+  },
+  "p5.wav": {
+    "duration": 4.3749886621315195,
+    "sample_rate": 44100,
+    "transcript": "Rice is often served in round bowls."
+  },
+  "p6.wav": {
+    "duration": 3.187482993197279,
+    "sample_rate": 44100,
+    "transcript": "The juice of lemons makes fine punch."
+  },
+  "p7.wav": {
+    "duration": 3.3677097505668936,
+    "sample_rate": 44100,
+    "transcript": "The box was thrown beside the parked truck."
+  },
+  "p8.wav": {
+    "duration": 3.4375056689342403,
+    "sample_rate": 44100,
+    "transcript": "The hogs were fed chopped corn and garbage."
+  },
+  "p9.wav": {
+    "duration": 3.2748072562358277,
+    "sample_rate": 44100,
+    "transcript": "Four hours of steady work faced us."
+  },
+  "p10.wav": {
+    "duration": 2.887687074829932,
+    "sample_rate": 44100,
+    "transcript": "A large size in stockings is hard to sell."
+  },
+  "p11.wav": {
+    "duration": 2.354172335600907,
+    "sample_rate": 44100,
+    "transcript": "The boy was there when the sun rose."
+  },
+  "p12.wav": {
+    "duration": 2.803673469387755,
+    "sample_rate": 44100,
+    "transcript": "A rod is used to catch pink salmon."
+  },
+  "p13.wav": {
+    "duration": 3.9172108843537417,
+    "sample_rate": 44100,
+    "transcript": "The source of the huge river is the clear spring."
+  },
+  "p14.wav": {
+    "duration": 2.7479138321995467,
+    "sample_rate": 44100,
+    "transcript": "Kick the ball straight and follow through."
+  },
+  "p15.wav": {
+    "duration": 2.376575963718821,
+    "sample_rate": 44100,
+    "transcript": "Help the woman get back to her feet."
+  },
+  "p16.wav": {
+    "duration": 2.88437641723356,
+    "sample_rate": 44100,
+    "transcript": "A pot of tea helps to pass the evening."
+  },
+  "p17.wav": {
+    "duration": 3.1656462585034015,
+    "sample_rate": 44100,
+    "transcript": "Smoky fires lack flame and heat."
+  },
+  "p18.wav": {
+    "duration": 2.9875056689342405,
+    "sample_rate": 44100,
+    "transcript": "The soft cushions broke the man's fall."
+  },
+  "p19.wav": {
+    "duration": 3.2624943310657595,
+    "sample_rate": 44100,
+    "transcript": "The salt breeze came across from the sea."
+  },
+
+  "p20.wav": {
+    "duration": 3.9775736961451247,
+    "sample_rate": 44100,
+    "transcript": "The girl at the booth sold 50 bonds."
+  },
+  "p21.wav": {
+    "duration": 3.740113378684807,
+    "sample_rate": 44100,
+    "transcript": "The small pup gnawed a hole in the sock."
+  },
+  "p22.wav": {
+    "duration": 3.989591836734694,
+    "sample_rate": 44100,
+    "transcript": "The fish twisted and turned on the bent hook."
+  },
+  "p23.wav": {
+    "duration": 3.13,
+    "sample_rate": 44100,
+    "transcript": "Press the pants and sew a button on the vest."
+  },
+  "p24.wav": {
+    "duration": 3.1928798185941045,
+    "sample_rate": 44100,
+    "transcript": "The swan dive was far short of perfect."
+  },
+  "p25.wav": {
+    "duration": 3.854172335600907,
+    "sample_rate": 44100,
+    "transcript": "The beauty of the view stunned the young boy."
+  },
+  "p26.wav": {
+    "duration": 3.2291836734693877,
+    "sample_rate": 44100,
+    "transcript": "Two blue fish swam in the tank."
+  },
+  "p27.wav": {
+    "duration": 3.083310657596372,
+    "sample_rate": 44100,
+    "transcript": "Her purse was full of useless trash."
+  },
+  "p28.wav": {
+    "duration": 3.8333333333333335,
+    "sample_rate": 44100,
+    "transcript": "The colt reared and threw the tall rider."
+  },
+  "p29.wav": {
+    "duration": 4.426077097505669,
+    "sample_rate": 44100,
+    "transcript": "It snowed, rained, and hailed the same morning."
+  },
+
+  "p30.wav": {
+    "duration": 2.752607709750567,
+    "sample_rate": 44100,
+    "transcript": "Read verse out loud for pleasure."
+  },
+  "p31.wav": {
+    "duration": 2.5416780045351475,
+    "sample_rate": 44100,
+    "transcript": "Hoist the load to your left shoulder."
+  },
+  "p32.wav": {
+    "duration": 3.041655328798186,
+    "sample_rate": 44100,
+    "transcript": "Take the winding path to reach the lake."
+  },
+  "p33.wav": {
+    "duration": 3.426575963718821,
+    "sample_rate": 44100,
+    "transcript": "Note closely the size of the gas tank."
+  },
+  "p34.wav": {
+    "duration": 2.9791836734693877,
+    "sample_rate": 44100,
+    "transcript": "Wipe the grease off his dirty face."
+  },
+  "p35.wav": {
+    "duration": 2.7916780045351475,
+    "sample_rate": 44100,
+    "transcript": "Mend the coat before you go out."
+  },
+  "p36.wav": {
+    "duration": 3.5,
+    "sample_rate": 44100,
+    "transcript": "The wrist was badly strained and hung limp."
+  },
+  "p37.wav": {
+    "duration": 2.833310657596372,
+    "sample_rate": 44100,
+    "transcript": "The stray cat gave birth to kittens."
+  },
+  "p38.wav": {
+    "duration": 2.7182086167800454,
+    "sample_rate": 44100,
+    "transcript": "The young girl gave no clear response."
+  },
+  "p39.wav": {
+    "duration": 3.0317913832199546,
+    "sample_rate": 44100,
+    "transcript": "The meal was cooked before the bell rang."
+  },
+
+  "p40.wav": {
+    "duration": 2.563718820861678,
+    "sample_rate": 44100,
+    "transcript": "What joy there is in living!"
+  },
+  "p41.wav": {
+    "duration": 3.2152380952380955,
+    "sample_rate": 44100,
+    "transcript": "A king ruled the state in the early days."
+  },
+  "p42.wav": {
+    "duration": 3.76578231292517,
+    "sample_rate": 44100,
+    "transcript": "The ship was torn apart on the sharp reef."
+  },
+  "p43.wav": {
+    "duration": 3.354172335600907,
+    "sample_rate": 44100,
+    "transcript": "Sickness kept him home the third week."
+  },
+  "p44.wav": {
+    "duration": 3.38437641723356,
+    "sample_rate": 44100,
+    "transcript": "The wide road shimmered in the hot sun."
+  },
+  "p45.wav": {
+    "duration": 3.3552154195011337,
+    "sample_rate": 44100,
+    "transcript": "The lazy cow lay in the cool grass."
+  },
+  "p46.wav": {
+    "duration": 3.3229251700680273,
+    "sample_rate": 44100,
+    "transcript": "Lift the square stone over the fence."
+  },
+  "p47.wav": {
+    "duration": 3.8124716553287983,
+    "sample_rate": 44100,
+    "transcript": "The rope will bind the seven books at once."
+  },
+  "p48.wav": {
+    "duration": 2.7083219954648525,
+    "sample_rate": 44100,
+    "transcript": "Hop over the fence and plunge in."
+  },
+  "p49.wav": {
+    "duration": 3.501904761904762,
+    "sample_rate": 44100,
+    "transcript": "Mesh wire keeps chicks inside."
+  },
+
+  "p50?.wav": {
+    "duration": 4.2083219954648525,
+    "sample_rate": 44100,
+    "transcript": "The quick brown fox jumps over the lazy dog."
+  },
+  "p51.wav": {
+    "duration": 3.7140589569160998,
+    "sample_rate": 44100,
+    "transcript": "Pack my box with five dozen liquor jugs."
+  },
+  "p52.wav": {
+    "duration": 3.5975963718820863,
+    "sample_rate": 44100,
+    "transcript": "Sphinx of black quartz, judge my vow."
+  },
+  "p53.wav": {
+    "duration": 5.122743764172336,
+    "sample_rate": 44100,
+    "transcript": "waltz, bad nymph, for quick jigs vex."
+  },
+  "p54.wav": {
+    "duration": 4.033333333333333,
+    "sample_rate": 44100,
+    "transcript": "How vexingly quick daft zebras jump!"
+  },
+  "p55.wav": {
+    "duration": 4.54843537414966,
+    "sample_rate": 44100,
+    "transcript": "Bright vixens jump; dozy fowl quack."
+  },
+  "p56.wav": {
+    "duration": 3.3151020408163263,
+    "sample_rate": 44100,
+    "transcript": "Jackdaws love my big sphinx of quartz."
+  },
+  "p57.wav": {
+    "duration": 5.757619047619047,
+    "sample_rate": 44100,
+    "transcript": "Crazy Fredericka bought many very exquisite opal jewels."
+  },
+  "p58.wav": {
+    "duration": 5.5,
+    "sample_rate": 44100,
+    "transcript": "We promptly judged antique ivory buckles for the next prize."
+  },
+  "p59.wav": {
+    "duration": 4.687482993197279,
+    "sample_rate": 44100,
+    "transcript": "Sixty zippers were quickly picked from the woven jute bag."
+  },
+  "p60.wav": {
+    "duration": 7.95952380952381,
+    "sample_rate": 44100,
+    "transcript": "She sells seashells by the seashore; the shells she sells are surely seashells."
+  }
+}
